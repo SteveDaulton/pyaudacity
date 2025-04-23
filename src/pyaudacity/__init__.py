@@ -3,8 +3,6 @@ By Al Sweigart al@inventwithpython.com
 
 A Python module to control a running instance of Audacity through its macro system."""
 
-# TODO - Bring up to the Audacity team that there's no way for the macros to just move the cursor to a timestamp in the project because there's no menu item for this. But there's literally no way to start a new project and create, like, a 1-second silence.
-
 # TODO - Go through and create enums for the enum parameters to help people working with type-aware IDEs.
 
 # TODO - Go through and check the online Audacity documentation for incorrect default
